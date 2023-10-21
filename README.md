@@ -1,16 +1,86 @@
 ### Hi there 👋
 
-<!--
-**karen-valenzuela-landero/karen-valenzuela-landero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Software Engineer
+
+🌟 QA Engineer since 2020
+
+ ✍🏼 Web Developer in progress...
+
+</div>
+
+---
+<div align="center">
+ 
+## Experience
+ 
+ </div>
+ 
+```php
+<?php
+namespace karenvalenzuela;
+class About extends Me {
+    public function getQAExperience(): array {
+        return [
+            Requirement Analysis::class,
+            Search for Ambiguities::class,
+            Test Matrix::class,
+            Test Case Design::class,
+            Execution of Test Cases::class,
+            Defect Report::class,
+            Defect Tracking::class,
+            Test Status Report::class,
+            Scrum::class
+        ];
+    }
+}
+```
+            
+---
+<div align="center">
+ 
+## Technical skills
+ 
+ </div>
+ 
+```php
+<?php
+namespace karenvalenzuela;
+class About extends Me {
+    public function getQATechnicalSkills(): array {
+        return [            
+            Smoke Tests::class,
+            Exploratory Tests::class,
+            Regression Tests::class,
+            API Tests::class
+        ];
+    }
+}
+```
+
+
+---
+<div align="center">
+ 
+## Technologies 
+ </div>
+ 
+ 
+```php
+<?php
+namespace karenvalenzuela;
+class About extends Me {
+    public function getTechnologies (): array {
+        return [            
+            Azure DevOps TestPlan::class,
+            Test & Feedback plugin::class,
+            Postman::class,
+            SQL::class,
+            GIT::class
+        ];
+    }
+}
+```
