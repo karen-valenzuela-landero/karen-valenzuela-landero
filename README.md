@@ -103,4 +103,4 @@ class About extends Me {
 
 
 
-Repositorio anterior: https://github.com/karenvalenzuelalandero
+Previous Repository: https://github.com/karenvalenzuelalandero
