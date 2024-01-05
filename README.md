@@ -14,6 +14,7 @@
 
 ---
 <div align="center">
+ 
 ## Experience
  
  </div>
@@ -58,6 +59,7 @@ class About extends Me {
 
 ---
 <div align="center">
+ 
 ## Programming Languages 
  
 </div>
@@ -79,6 +81,7 @@ class About extends Me {
 
 ---
 <div align="center">
+ 
 ## Technologies 
  
  </div>
