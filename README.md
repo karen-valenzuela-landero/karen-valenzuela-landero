@@ -8,17 +8,30 @@
 
 🌟 QA Engineer since 2020
 
- ✍🏼 Web Developer in progress...
+ ✍🏼 FullStack Java Developer Jr
 
 </div>
 
 ---
 <div align="center">
- 
 ## Experience
- 
  </div>
- 
+
+ ```php
+<?php
+namespace karenvalenzuela;
+class About extends Me {
+    public function getDevExperience(): array {
+        return [
+            WebDevelopment::class,
+            Code Review::class,
+            Unit Tests::class,
+            Scrum::class
+        ];
+    }
+}
+```
+
 ```php
 <?php
 namespace karenvalenzuela;
@@ -33,25 +46,6 @@ class About extends Me {
             Defect Report::class,
             Defect Tracking::class,
             Test Status Report::class,
-            Scrum::class
-        ];
-    }
-}
-```
-            
----
-<div align="center">
- 
-## Technical skills
- 
- </div>
- 
-```php
-<?php
-namespace karenvalenzuela;
-class About extends Me {
-    public function getQATechnicalSkills(): array {
-        return [            
             Smoke Tests::class,
             Exploratory Tests::class,
             Regression Tests::class,
@@ -61,13 +55,30 @@ class About extends Me {
 }
 ```
 
+---
+<div align="center">
+## Programming Languages 
+</div>
+ 
+```php
+<?php
+namespace karenvalenzuela;
+class About extends Me {
+    public function getLanguages (): array {
+        return [            
+            HTML/CSS::class,
+            Javascript::class,
+            Java::class,
+            SQL::class
+        ];
+    }
+}
+```
 
 ---
 <div align="center">
- 
 ## Technologies 
  </div>
- 
  
 ```php
 <?php
@@ -78,8 +89,7 @@ class About extends Me {
             Azure DevOps TestPlan::class,
             Test & Feedback plugin::class,
             Postman::class,
-            SQL::class,
-            GIT::class
+            Figma::class
         ];
     }
 }
