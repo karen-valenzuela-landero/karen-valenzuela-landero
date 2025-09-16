@@ -6,7 +6,7 @@
 
 👩‍💻 Software Engineer
 
-🌟 QA Engineer since 2020
+🌟 QA Engineer
 
  ✍🏼 FullStack Java Developer Jr
 
@@ -25,7 +25,8 @@ namespace karenvalenzuela;
 class About extends Me {
     public function getDevExperience(): array {
         return [
-            WebDevelopment::class,
+            Velneo Development:class,
+            Web Development::class,
             Code Review::class,
             Unit Tests::class,
             Scrum::class
