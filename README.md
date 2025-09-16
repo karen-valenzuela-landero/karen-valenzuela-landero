@@ -25,7 +25,7 @@ namespace karenvalenzuela;
 class About extends Me {
     public function getDevExperience(): array {
         return [
-            Velneo Development:class,
+            Velneo Development::class,
             Web Development::class,
             Code Review::class,
             Unit Tests::class,
